@@ -1,3 +1,12 @@
 # Data Science and Engineer Assignment
-The assignment based on what was learned in data science and engineering class
+The assignment based on what was learned in data science and engineering class.
 1. Intro to pandas 
+2. Data Preparation
+3. Machine Learning
+4. Clustering
+5. Deep learning
+6. Data storage with redis
+7. Data scraping
+8. Data ingestion with Kafka
+9. Data processing with Spark
+10. Airflow orchestration
